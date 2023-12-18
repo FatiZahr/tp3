@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68443999792",
+    "project_id": "tp3project-64006",
+    "storage_bucket": "tp3project-64006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68443999792:android:4661f533e8ecea5fcfa7f5",
+        "android_client_info": {
+          "package_name": "com.example.tp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3g6wVwdEU-kXQ1PS63DnGpH8Sf9H_tqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
